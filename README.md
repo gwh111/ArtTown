@@ -2,9 +2,7 @@
 
 技术支持请提[issue](https://github.com/gwh111/ArtTown/issues)，或查看最下方联系方式。
 
-<img width=256px src="img/img1.png" >
-<img width=256px src="img/img2.png" >
-<img width=256px src="img/img3.png" >
+<img width=256px src="img/img1.png" ><img width=256px src="img/img2.png" ><img width=256px src="img/img3.png" >
  
 AI艺术的特点在于它需要人类的指导和操作，计算机程序在深度学习了大量人类艺术家的作品后生成艺术作品。AI艺术作品展现了非凡的想象力和时代感，但它们并不具备自我意识，也不诞生于特定的历史情境中。‌
 
